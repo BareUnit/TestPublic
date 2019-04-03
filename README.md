@@ -7,3 +7,5 @@ This is a test git repository
 This is a file contents
 
 1. index.html
+
+Loren IPSUM
